@@ -27,7 +27,7 @@ Minecraft Server Status Query - Minecraft 服务器状态查询 - 使用易语�
 
 ## 起源
 
-本项目是根据以下开源项目的 `API` 进行开发的。
+本项目是根据以下开源项目的 `API` 进行开发的：
 
 [Minecraft Server Status](https://mcstatus.io/)
 
